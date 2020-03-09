@@ -7,3 +7,6 @@ dist/
 .project
 .pydevproject
 .idea
+
+# xnat-docker-compose required for running tests
+xnat-docker-compose
